@@ -6,7 +6,7 @@
 En enkel webbshop byggd i React med kundvagnsfunktionalitet och produktvisning.
 
 - **Tekniker:** React, JavaScript, CSS
-- [Se projektet](https://github.com/andys19a/react-webshop)
+- [Se projektet](https://github.com/andys19a/webb24-js2-slutprojekt-Andr--Alm/tree/main)
 
 ---
 
@@ -14,7 +14,7 @@ En enkel webbshop byggd i React med kundvagnsfunktionalitet och produktvisning.
 En e-handelslösning med PHP och MySQL där man kan lägga produkter i kundvagnen och slutföra köp.
 
 - **Tekniker:** PHP, MySQL, HTML/CSS
-- [Se projektet](https://github.com/andys19a/php-ecommerce)
+- [Se projektet](https://github.com/MH-GRIT/webbshoppen-andys19a/tree/main/WEBB24_DB%20(lektion)/Inlamningsuppgift)
 
 ---
 
@@ -22,7 +22,7 @@ En e-handelslösning med PHP och MySQL där man kan lägga produkter i kundvagne
 Ett backend-baserat spel där användaren gissar ett nummer och poängen lagras i en JSON-fil som en highscore-lista.
 
 - **Tekniker:** Node.js, JavaScript, Express
-- [Se projektet](https://github.com/andys19a/gissa-numret)
+- [Se projektet](https://github.com/andys19a/Webb24-JS1_API-Andr--Alm/tree/main/Inlamning/js)
 
 ---
 
