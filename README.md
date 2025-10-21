@@ -2,6 +2,14 @@
 
 ## 🧩 Projekt
 
+
+### Examensarbete – React/Node e-handel
+
+Ett fullstack-projekt med frontend och backend för en e-handelsupplevelse. Innehåller Stripe-integration (nycklar via `.env`), separat port för backend och frontend, samt tydliga startkommandon.  
+* Tekniker: React, Node.js (Express), Stripe, HTML/CSS  
+* [Se projektet](https://github.com/andys19a/examensarbete)
+
+
 ### 🛒 React Webshop
 En enkel webbshop byggd i React med kundvagnsfunktionalitet och produktvisning.
 
