@@ -2,35 +2,42 @@
 
 ## 🧩 Projekt
 
-
 ### Examensarbete – React/Node e-handel
-
 Ett fullstack-projekt med frontend och backend för en e-handelsupplevelse. Innehåller Stripe-integration (nycklar via `.env`), separat port för backend och frontend, samt tydliga startkommandon.  
-* Tekniker: React, Node.js (Express), Stripe, HTML/CSS  
-* [Se projektet](https://github.com/andys19a/examensarbete)
+*Tekniker: React, Node.js (Express), Stripe, HTML/CSS*  
+[Se projektet](https://github.com/andys19a/examensarbete)
 
+---
 
 ### 🛒 React Webshop
 En enkel webbshop byggd i React med kundvagnsfunktionalitet och produktvisning.
 
-- **Tekniker:** React, JavaScript, CSS
-- [Se projektet](https://github.com/andys19a/webb24-js2-slutprojekt-Andr--Alm/tree/main)
+*Tekniker: React, JavaScript, CSS*  
+[Se projektet](https://github.com/andys19a/webb24-js2-slutprojekt-Andr--Alm/tree/main)
+
+---
+
+### 📈 React Affiliate – ProfitPlay
+En affiliate-sida byggd i React med fokus på struktur, komponentbaserad utveckling och konverteringsdriven design. Projektet visar din förmåga att kombinera teknik, UX och affärstänk.
+
+*Tekniker: React, JavaScript, CSS*  
+[Se projektet](https://github.com/andys19a/react-affiliate)
 
 ---
 
 ### 📦 PHP E-handel
 En e-handelslösning med PHP och MySQL där man kan lägga produkter i kundvagnen och slutföra köp.
 
-- **Tekniker:** PHP, MySQL, HTML/CSS
-- [Se projektet](https://github.com/MH-GRIT/webbshoppen-andys19a/tree/main/WEBB24_DB%20(lektion)/Inlamningsuppgift)
+*Tekniker: PHP, MySQL, HTML/CSS*  
+[Se projektet](https://github.com/MH-GRIT/webbshoppen-andys19a/tree/main/WEBB24_DB%20(lektion)/Inlamningsuppgift)
 
 ---
 
 ### 🎮 Gissa Numret (Node.js)
 Ett backend-baserat spel där användaren gissar ett nummer och poängen lagras i en JSON-fil som en highscore-lista.
 
-- **Tekniker:** Node.js, JavaScript, Express
-- [Se projektet](https://github.com/andys19a/Webb24-JS1_API-Andr--Alm/tree/main/Inlamning/js)
+*Tekniker: Node.js, JavaScript, Express*  
+[Se projektet](https://github.com/andys19a/Webb24-JS1_API-Andr--Alm/tree/main/Inlamning/js)
 
 ---
 
@@ -40,7 +47,9 @@ Ett backend-baserat spel där användaren gissar ett nummer och poängen lagras 
 - PHP, SQL
 - Node.js & Express
 - Git & GitHub
-- E-handelsplattformar
+- WordPress & Elementor
+- Google Analytics, GTM, SEM, SEO
+
 
 
 
