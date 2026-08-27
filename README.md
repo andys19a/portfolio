@@ -41,6 +41,16 @@ Ett backend-baserat spel där användaren gissar ett nummer och poängen lagras 
 
 ---
 
+###🧩 Möhippa swipe
+Ett tinder swipe system till en möhippa där resultaten sparas i slutet i en lista.
+
+*tekniker: HTMl, CSS, Typescript, Javascript
+https://github.com/andys19a/Emma-s-overaskning
+
+
+
+
+
 ## 📚 Kompetenser
 - HTML, CSS, JavaScript
 - React
@@ -49,6 +59,8 @@ Ett backend-baserat spel där användaren gissar ett nummer och poängen lagras 
 - Git & GitHub
 - WordPress & Elementor
 - Google Analytics, GTM, SEM, SEO
+
+
 
 
 
